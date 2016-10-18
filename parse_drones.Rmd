@@ -1,0 +1,277 @@
+---
+title: "drones_cleaning"
+author: "Paul Oldham"
+date: "25 September 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document contains the code used to parse the Lens patent database results for a search for "drone" or "drones" in the full text and the title, abstract or claims. The tables generated are used in the infographic session of the WIPO patent analytics training.
+
+Note that the data is limited using filter() to the period 1990-2015. The repetitive nature of some of the code cries out for a function but was affected by str_trim issues. Function to be added later.
+
+Code for creating files for use in gephi can be found at the end. That code can also go into a function but requires more testing and some additions and possible conversion to .gexf format. 
+
+Load the libraries
+
+```{r}
+library(readr)
+library(plyr)
+library(dplyr)
+library(tidyr)
+library(stringr)
+```
+
+### process the full text
+
+
+```{r}
+drones_cleaned <- readr::read_csv("/Users/pauloldham17inch/Desktop/WIPO\ Training/drones_pendrive/drones_fulltext/source_data/drones_fulltext_cleaned_5884.csv") %>% 
+  oldhammisc::addcol(., "weight", 1) # note use of oldhammisc on github here.
+```
+
+Restrict the data to 1990 to 2015:
+
+```{r}
+drones_cleaned_1990_2015 <- dplyr::filter(drones_cleaned, publication_year >= 1990, publication_year <= 2015) # reduces to 4,290 rows. This is where the count difference lies but VP has 4,202 rows Removed >= and it didnt work
+readr::write_csv(drones_cleaned, "drones_cleaned_1990_2015.csv")
+```
+
+Generate applicants table
+
+```{r}
+organisations_cleaned_1990_2015 <- dplyr::select(drones_cleaned_1990_2015, applicants_organisations_only, weight) %>% 
+  tidyr::separate_rows(applicants_organisations_only, sep = ";") 
+
+organisations_cleaned_1990_2015$applicants_organisations_only <-  stringr::str_trim(organisations_cleaned_1990_2015$applicants_organisations_only, side = "both")
+
+organisations_count_1990_2015 <- dplyr::count(organisations_cleaned_1990_2015, applicants_organisations_only, wt = weight) %>% 
+  na.omit() %>% 
+  dplyr::arrange(desc(n))
+
+readr::write_csv(organisations_count_1990_2015, "drones_organisations_count_fulltext_1990_2015.csv") # correct
+```
+
+Inventors
+
+```{r}
+inventors_cleaned_1990_2015 <- select(drones_cleaned_1990_2015, inventors_useme, weight) %>% 
+  tidyr::separate_rows(inventors_useme, sep = ";") 
+
+inventors_cleaned_1990_2015$inventors_useme <-  stringr::str_trim(inventors_cleaned_1990_2015$inventors_useme, side = "both")
+
+inventors_count_1990_2015 <- count(inventors_cleaned_1990_2015, inventors_useme, wt = weight) %>% 
+  na.omit() %>% 
+  arrange(desc(n))
+
+readr::write_csv(inventors_count_1990_2015, "drones_inventors_count_fulltext_1990_2015.csv") # correct
+```
+
+IPCs
+
+```{r}
+ipc_short_1990_2015 <- select(drones_cleaned_1990_2015, ipc_short, weight) %>% 
+  tidyr::separate_rows(ipc_short, sep = ";") 
+
+ipc_short_1990_2015$ipc_short <-  stringr::str_trim(ipc_short_1990_2015$ipc_short, side = "both")
+
+ipc_short_count_1990_2015 <- count(ipc_short_1990_2015, ipc_short, wt = weight) %>% 
+  na.omit() %>% 
+  arrange(desc(n))
+
+readr::write_csv(ipc_short_count_1990_2015, "drones_ipc_short_count_fulltext_1990_2015.csv")
+
+View(ipc_short_count_1990_2015) 
+# this appeared to be scoring too high for some reason. The VP file included incorrect years in the grouping and should now be fine. 
+```
+
+phrases
+
+```{r}
+phrases_1990_2015 <- select(drones_cleaned_1990_2015, title_phrases, weight) %>% 
+  tidyr::separate_rows(title_phrases, sep = ";") 
+
+phrases_1990_2015$title_phrases <- stringr::str_trim(phrases_1990_2015$title_phrases, side = "both")
+
+phrases_count_1990_2015 <- count(phrases_1990_2015, title_phrases, wt = weight) %>% 
+  na.omit() %>% 
+  arrange(desc(n))
+
+readr::write_csv(phrases_count_1990_2015, "drones_phrases_fulltext_1990_2015.csv")
+
+View(phrases_count_1990_2015) # that is correct
+```
+
+Trends - Publication count by country
+
+```{r}
+library(dplyr)
+publication_country_totals_1990_2015 <- select(drones_cleaned_1990_2015, publication_country_name, publication_year, weight) %>%
+  count(publication_country_name, publication_year, wt = weight)
+
+readr::write_csv(publication_country_totals_1990_2015, "publication_country_totals_1990_2015.csv")
+```
+
+## Wide format on the year for infor.gram
+
+```{r}
+country_totals_1990_2015 <- select(drones_cleaned_1990_2015, publication_country_name, publication_year, weight) %>%
+  count(publication_country_name, publication_year, wt = weight) %>% # note n
+  tidyr::spread(publication_year, n) # note nn
+
+readr::write_csv(country_totals_1990_2015, "drones_country_totals_fulltext.csv")
+
+View(country_totals_1990_2015) # that is correct
+```
+
+#TAC
+
+Read in TAC data
+
+```{r}
+drones_tac_cleaned <- readr::read_csv("/Users/pauloldham17inch/Desktop/WIPO\ Training/drones_pendrive/drones_tac_1695_17102016/drones_tac_1695_cleaned.csv") %>% 
+  oldhammisc::addcol(., "weight", 1)
+
+drones_tac_1990_2015 <- dplyr::filter(drones_tac_cleaned, publication_year >= 1990, publication_year <= 2015)
+
+readr::write_csv(drones_tac_1990_2015, "drones_tac_1990_2015.csv")
+```
+
+Applicants
+
+```{r}
+organisations_tac_1990_2015 <- select(drones_tac_1990_2015, applicants_organisations_only, weight) %>% 
+  tidyr::separate_rows(applicants_organisations_only, sep = ";") 
+
+organisations_tac_1990_2015$applicants_organisations_only <-  stringr::str_trim(organisations_tac_1990_2015$applicants_organisations_only, side = "both")
+
+organisations_tac_1990_2015_count <- count(organisations_tac_1990_2015, applicants_organisations_only, wt = weight) %>% 
+  na.omit() %>% 
+  arrange(desc(n))
+
+readr::write_csv(organisations_tac_1990_2015_count, "drones_organisations_tac_1990_2015_count.csv")
+
+View(organisations_tac_1990_2015_count) # that is correct on VP
+```
+
+Inventors
+
+```{r}
+inventors_tac_1990_2015 <- select(drones_tac_1990_2015, inventors_useme, weight) %>% 
+  tidyr::separate_rows(inventors_useme, sep = ";") 
+
+inventors_tac_1990_2015$inventors_useme <-  stringr::str_trim(inventors_tac_1990_2015$inventors_useme, side = "both")
+
+inventors_tac_count_1990_2015 <- count(inventors_tac_1990_2015, inventors_useme, wt = weight) %>% 
+  na.omit() %>% 
+  arrange(desc(n))
+
+readr::write_csv(inventors_tac_count_1990_2015, "drones_inventors_tac_1990_2015_count.csv")
+
+View(inventors_tac_count_1990_2015) # that is correct on VP
+```
+
+#ipcs
+
+```{r}
+ipc_tac_1990_2015 <- select(drones_tac_1990_2015, ipc_short, weight) %>% 
+  tidyr::separate_rows(ipc_short, sep = ";") 
+
+ipc_tac_1990_2015$ipc_short <-  stringr::str_trim(ipc_tac_1990_2015$ipc_short, side = "both")
+
+ipc_tac_1990_2015_count <- count(ipc_tac_1990_2015, ipc_short, wt = weight) %>% 
+  na.omit() %>% 
+  arrange(desc(n))
+
+readr::write_csv(ipc_tac_1990_2015_count, "drones_ipc_tac_1990_2015_count.csv")
+
+View(ipc_tac_1990_2015_count) # that is correct on VP
+```
+
+#phrases
+
+```{r}
+phrases_tac_1990_2015 <- select(drones_tac_1990_2015, title_phrases, weight) %>% 
+  tidyr::separate_rows(title_phrases, sep = ";") 
+
+phrases_tac_1990_2015$title_phrases <-  stringr::str_trim(phrases_tac_1990_2015$title_phrases, side = "both")
+
+phrases_tac_1990_2015_count <- count(phrases_tac_1990_2015, title_phrases, wt = weight) %>% 
+  na.omit() %>% 
+  arrange(desc(n))
+
+readr::write_csv(phrases_tac_1990_2015_count, "drones_phrases_tac_1990_2015_count.csv")
+
+View(phrases_tac_1990_2015_count) # that is correct on VP
+```
+
+# country_totals
+
+```{r}
+country_totals_tac_1990_2015 <- select(drones_tac_1990_2015, publication_country_name, publication_year, weight) %>%
+  count(publication_country_name, publication_year, wt = weight) %>% # note n
+  tidyr::spread(publication_year, n) # note nn
+country_totals_tac_1990_2015
+
+readr::write_csv(country_totals_tac_1990_2015, "drones_country_totals_tac_1990_2015.csv")
+
+View(country_totals_tac_1990_2015) # correct from VP
+```
+
+## Create Gephi Nodes and Edges Table with the widyr package
+
+The widyr package provides a very useful and easy way to prepare an edges table for use in gephi. It focuses on tidying up data and then turning it into wide format. `widyr` is not on CRAN yet and so we need to install it by first loading the `devtools` package (if you do not have devtools then first use `install.packages("devtools").
+
+```{r}
+library(devtools)
+install_github("dgrtwo/widyr")
+```
+
+When preparing to use widyr with patent data fields (which are typically concatenated) you will need to first use `separate_rows` from `tidyr`. If you try to use patent data with widyr and it does not work it will probably because you have not separated out the concatenated field and therefore there are no results to actually work with. 
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(widyr)
+```
+
+
+```{r}
+# separate_rows to deconcatenate the applicants organisation field. 
+
+applicants_1990_2015 <- tidyr::separate_rows(drones_cleaned_1990_2015, applicants_organisations_only, sep = ";") # separate on organisations
+
+# select organisations and weight
+nodes_applicants_1990_2015 <- dplyr::select(applicants_1990_2015, applicants_organisations_only, weight) 
+
+# trim leading and trailing whitespace for correct count
+nodes_applicants_1990_2015$applicants_organisations_only <- stringr::str_trim(nodes_applicants_1990_2015$applicants_organisations_only, side = "both")
+
+# create nodes table with count
+nodes_applicants <- dplyr::count(nodes_applicants_1990_2015, applicants_organisations_only, wt = weight) %>%
+  na.omit() 
+
+readr::write_csv(nodes_applicants, "nodes_applicants_fulltext_1990_2015.csv")
+# View(nodes_applicants) # that is correct from VP
+```
+
+# create edges table with widyr
+```{r}
+
+applicants_edges <- widyr::pairwise_count(applicants_1990_2015, item = applicants_organisations_only, feature = publication_number, sort = TRUE) %>% 
+  dplyr::rename_(source = "item1", target = "item2", weight = "n") 
+
+#add "Type"" column to prevent defaulting to directed graph
+applicants_edges <- oldhammisc::addcol(applicants_edges, "Type", "undirected") # note using oldhammisc to add col.
+
+# A numeric id field may also make sense later on. 
+
+readr::write_csv(applicants_edges, "edges_applicants_organisations_fulltext_1990_2015.csv")
+```
+
+
+
+

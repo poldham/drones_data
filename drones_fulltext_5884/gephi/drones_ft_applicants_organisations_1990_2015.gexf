@@ -1,0 +1,7860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.1">
+<meta lastmodifieddate="18/10/2016 18:51:43">
+<creator>VP-to-Gephi macro 1.2 (static)</creator>
+<description>Static network from [applicants_organisations_only] to [applicants_organisations_only]</description>
+</meta>
+<graph mode="static" defaultedgetype="undirected">
+<attributes class="node">
+<attribute id="0" title="records" type="integer" />
+</attributes>
+<nodes>
+<node id="1" label="THALES SA">
+<attvalues>
+<attvalue for="0" value="95"/>
+</attvalues>
+</node>
+<node id="2" label="ECOLE NATIONALE SUPERIEURE DE TECH AVANCEES BRETAGNE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="3" label="ELWHA LLC">
+<attvalues>
+<attvalue for="0" value="75"/>
+</attvalues>
+</node>
+<node id="4" label="OSTERHOUT GROUP INC">
+<attvalues>
+<attvalue for="0" value="57"/>
+</attvalues>
+</node>
+<node id="5" label="BOEING CO">
+<attvalues>
+<attvalue for="0" value="54"/>
+</attvalues>
+</node>
+<node id="6" label="GOOGLE INC">
+<attvalues>
+<attvalue for="0" value="44"/>
+</attvalues>
+</node>
+<node id="7" label="US NAVY">
+<attvalues>
+<attvalue for="0" value="44"/>
+</attvalues>
+</node>
+<node id="8" label="US AGRICULTURE">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="9" label="REPRESENTED BY THE SECRETARY OF THE NAVY UNITED STATES GOVERNMENT AS">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="10" label="LOCKHEED CORP">
+<attvalues>
+<attvalue for="0" value="43"/>
+</attvalues>
+</node>
+<node id="11" label="PARROT">
+<attvalues>
+<attvalue for="0" value="43"/>
+</attvalues>
+</node>
+<node id="12" label="QUALCOMM INC">
+<attvalues>
+<attvalue for="0" value="37"/>
+</attvalues>
+</node>
+<node id="13" label="RAYTHEON CO">
+<attvalues>
+<attvalue for="0" value="37"/>
+</attvalues>
+</node>
+<node id="14" label="AIRBUS GROUP SAS">
+<attvalues>
+<attvalue for="0" value="34"/>
+</attvalues>
+</node>
+<node id="15" label="EADS (various locations)">
+<attvalues>
+<attvalue for="0" value="26"/>
+</attvalues>
+</node>
+<node id="16" label="STEUBBEUS FLUGZEUG UND LEICHTBAU GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="17" label="FLIR SYSTEMS">
+<attvalues>
+<attvalue for="0" value="32"/>
+</attvalues>
+</node>
+<node id="18" label="WITRICITY CORP">
+<attvalues>
+<attvalue for="0" value="32"/>
+</attvalues>
+</node>
+<node id="19" label="AMAZON TECH INC">
+<attvalues>
+<attvalue for="0" value="29"/>
+</attvalues>
+</node>
+<node id="20" label="CASSIDIAN SAS">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="21" label="IBM">
+<attvalues>
+<attvalue for="0" value="26"/>
+</attvalues>
+</node>
+<node id="22" label="IDEAL TOY CORP">
+<attvalues>
+<attvalue for="0" value="22"/>
+</attvalues>
+</node>
+<node id="23" label="BRAIN CORP">
+<attvalues>
+<attvalue for="0" value="21"/>
+</attvalues>
+</node>
+<node id="24" label="HONEYWELL INT INC">
+<attvalues>
+<attvalue for="0" value="21"/>
+</attvalues>
+</node>
+<node id="25" label="SEARETTE LLC">
+<attvalues>
+<attvalue for="0" value="21"/>
+</attvalues>
+</node>
+<node id="26" label="AT   T IP I LP">
+<attvalues>
+<attvalue for="0" value="19"/>
+</attvalues>
+</node>
+<node id="27" label="AT   T MOBILITY II LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="28" label="ALL PURPOSE NETWORKS LLC">
+<attvalues>
+<attvalue for="0" value="18"/>
+</attvalues>
+</node>
+<node id="29" label="DIEHL GMBH   CO">
+<attvalues>
+<attvalue for="0" value="18"/>
+</attvalues>
+</node>
+<node id="30" label="HONEYWELL ELAC NAUTIK GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="31" label="US ARMY">
+<attvalues>
+<attvalue for="0" value="18"/>
+</attvalues>
+</node>
+<node id="32" label="MOTOROLA INC">
+<attvalues>
+<attvalue for="0" value="17"/>
+</attvalues>
+</node>
+<node id="33" label="DCNS">
+<attvalues>
+<attvalue for="0" value="16"/>
+</attvalues>
+</node>
+<node id="34" label="ITERIS INC">
+<attvalues>
+<attvalue for="0" value="16"/>
+</attvalues>
+</node>
+<node id="35" label="VERIZON PATENT   LICENSING INC">
+<attvalues>
+<attvalue for="0" value="16"/>
+</attvalues>
+</node>
+<node id="36" label="BOSE CORP">
+<attvalues>
+<attvalue for="0" value="15"/>
+</attvalues>
+</node>
+<node id="37" label="EUROCOPTER FRANCE">
+<attvalues>
+<attvalue for="0" value="14"/>
+</attvalues>
+</node>
+<node id="38" label="MICROSOFT CORP">
+<attvalues>
+<attvalue for="0" value="14"/>
+</attvalues>
+</node>
+<node id="39" label="OBSHESTVO S OGRANICHENNOJ OTVETSTVENNOSTJU PARAFARM">
+<attvalues>
+<attvalue for="0" value="14"/>
+</attvalues>
+</node>
+<node id="40" label="BAE">
+<attvalues>
+<attvalue for="0" value="13"/>
+</attvalues>
+</node>
+<node id="41" label="GEN ELECTRIC">
+<attvalues>
+<attvalue for="0" value="13"/>
+</attvalues>
+</node>
+<node id="42" label="HALLIBURTON ENERGY SERVICES INC">
+<attvalues>
+<attvalue for="0" value="13"/>
+</attvalues>
+</node>
+<node id="43" label="HAMILTON SUNDSTRAND CORP">
+<attvalues>
+<attvalue for="0" value="13"/>
+</attvalues>
+</node>
+<node id="44" label="MASSACHUSETTS INST TECHNOLOGY">
+<attvalues>
+<attvalue for="0" value="13"/>
+</attvalues>
+</node>
+<node id="45" label="NORTHROP CORP">
+<attvalues>
+<attvalue for="0" value="13"/>
+</attvalues>
+</node>
+<node id="46" label="UNIV CALIFORNIA">
+<attvalues>
+<attvalue for="0" value="13"/>
+</attvalues>
+</node>
+<node id="47" label="OREGON STATE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="48" label="BIOSOLAR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="49" label="ACEA PHARM INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="50" label="AEROSPATIALE">
+<attvalues>
+<attvalue for="0" value="12"/>
+</attvalues>
+</node>
+<node id="51" label="ALLIS CHALMERS MFG CO">
+<attvalues>
+<attvalue for="0" value="11"/>
+</attvalues>
+</node>
+<node id="52" label="ATLAS ELEKTRONIK GMBH">
+<attvalues>
+<attvalue for="0" value="11"/>
+</attvalues>
+</node>
+<node id="53" label="FIAT ALLIS CONSTRUCT MACHINE">
+<attvalues>
+<attvalue for="0" value="11"/>
+</attvalues>
+</node>
+<node id="54" label="HARSCO CORP">
+<attvalues>
+<attvalue for="0" value="11"/>
+</attvalues>
+</node>
+<node id="55" label="INSITU INC">
+<attvalues>
+<attvalue for="0" value="11"/>
+</attvalues>
+</node>
+<node id="56" label="UNIV WASHINGTON">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="57" label="SNECMA">
+<attvalues>
+<attvalue for="0" value="11"/>
+</attvalues>
+</node>
+<node id="58" label="YAMAHA CORP">
+<attvalues>
+<attvalue for="0" value="11"/>
+</attvalues>
+</node>
+<node id="59" label="BAODING LONG TENG SPORTS GOODS CO LTD">
+<attvalues>
+<attvalue for="0" value="10"/>
+</attvalues>
+</node>
+<node id="60" label="HYUNDAI MOTOR CO LTD">
+<attvalues>
+<attvalue for="0" value="9"/>
+</attvalues>
+</node>
+<node id="61" label="INTEL CORP">
+<attvalues>
+<attvalue for="0" value="9"/>
+</attvalues>
+</node>
+<node id="62" label="LEVEL 3 COMMUNICATIONS LLC">
+<attvalues>
+<attvalue for="0" value="9"/>
+</attvalues>
+</node>
+<node id="63" label="MATSUSHITA ELECTRIC IND CO LTD">
+<attvalues>
+<attvalue for="0" value="9"/>
+</attvalues>
+</node>
+<node id="64" label="MESSERSCHMITT BOELKOW BLOHM">
+<attvalues>
+<attvalue for="0" value="9"/>
+</attvalues>
+</node>
+<node id="65" label="TOYOTA MOTOR CO LTD">
+<attvalues>
+<attvalue for="0" value="9"/>
+</attvalues>
+</node>
+<node id="66" label="US AIR FORCE">
+<attvalues>
+<attvalue for="0" value="9"/>
+</attvalues>
+</node>
+<node id="67" label="ALIPHCOM">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="68" label="BEEOLOGICS INC">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="69" label="MONSANTO TECHNOLOGY LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="70" label="EAGLE VIEW TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="71" label="G MASHINOSTROITEL NOE KB RADUGA IM A JA BEREZNJAKA AOOT">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="72" label="ION GEOPHYSICAL CORP">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="73" label="KORPORATSIJA TAKTICHESKOE RAKE">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="74" label="L 3 COMM CORP">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="75" label="ROCKWELL COLLINS INC">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="76" label="SENSORIA CORP">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="77" label="UNITED TECHNOLOGIES CORP">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="78" label="WICAB INC">
+<attvalues>
+<attvalue for="0" value="8"/>
+</attvalues>
+</node>
+<node id="79" label="ABBOTT DIABETES CARE INC">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="80" label="ALCATEL LUCENT">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="81" label="CATERPILLAR TRACTOR CO">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="82" label="CHEVRON RES">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="83" label="DISNEY ENTPR INC">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="84" label="EBAY INC">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="85" label="KOMATSU MFG CO LTD">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="86" label="LG ELECTRONICS INC">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="87" label="LORD CORP">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="88" label="MBDA FRANCE">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="89" label="PARALLEL WIRELESS INC">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="90" label="RHEINMETALL GMBH">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="91" label="SAKTI3 INC">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="92" label="SAMSUNG ELECTRONICS CO LTD">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="93" label="SHENZHEN SMART DRONE UAV CO LTD">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="94" label="SIEMENS AG">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="95" label="SZ DJI TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="96" label="THOMSON LICENSING">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="97" label="TRIMBLE NAVIGATION LTD">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="98" label="UNITED PARCEL SERVICE INC">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="99" label="UNIV BEI HANG">
+<attvalues>
+<attvalue for="0" value="7"/>
+</attvalues>
+</node>
+<node id="100" label="ABB TECHNOLOGY AG">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="101" label="ALLSTATE INSURANCE CO">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="102" label="BAE SYSTEMS INFORMATION">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="103" label="CATERPILLAR INC">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="104" label="COMMISSARIAT ENERGIE ATOMIQUE">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="105" label="DAIMLER BENZ AG">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="106" label="DEERE   CO">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="107" label="DELTA DRONE">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="108" label="FACEBOOK INC">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="109" label="FRAUNHOFER GES FORSCHUNG">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="110" label="HEXAGON TECHNOLOGY CT GMBH">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="111" label="IGT RENO NEV">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="112" label="JULIET MARINE SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="113" label="LFK GMBH">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="114" label="NEXTBIT SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="115" label="NISSAN MOTOR">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="116" label="MAHLE FILTER SYSTEMS JP CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="117" label="SAGEM DEFENSE SECURITE">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="118" label="SCHLUMBERGER TECHNOLOGY BV">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="119" label="SCHLUMBERGER SERVICES PETROL">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="120" label="PRAD RES   DEV LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="121" label="SCHLUMBERGER CA LTD">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="122" label="LOGINED BV">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="123" label="UBIQOMM LLC">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="124" label="F E RES   DEV LLC SA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="125" label="UNIV ARIZONA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="126" label="VEGA PRECISION LAB INC">
+<attvalues>
+<attvalue for="0" value="6"/>
+</attvalues>
+</node>
+<node id="127" label="AEROVIRONMENT INC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="128" label="ANONOS INC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="129" label="ASTRIUM SAS">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="130" label="ATARI INC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="131" label="BASF SE">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="132" label="BASF CHINA CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="133" label="NOD APIARY PRODUCTS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="134" label="BAYER AG">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="135" label="BEE RES INST CAAS">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="136" label="BOSCH GMBH ROBERT">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="137" label="CATERPILLAR OF AUSTRALIA PTY LTD">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="138" label="CENTRE NAT DE LA RECH SCIENT (CNRS)">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="139" label="AIX MARSEILLE UNIVERSIT ">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="140" label="AGRONOMIQUE INST NAT RECH">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="141" label="UNIV PIERRE ET MARIE CURIE (UPMC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="142" label="UNIV SCIENCES TECHNOLOGIES LILLE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="143" label="DORNIER GMBH">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="144" label="FAIRCHILD INDUSTRIES">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="145" label="FEDERAL NOE GUP MO O KB MARS FGUP MOKB MARS">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="146" label="FLIR BELGIUM BVBA">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="147" label="FLORIDA TURBINE TECH INC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="148" label="FORD GLOBAL TECH LLC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="149" label="GREENHILL ANTIBALLISTICS CORP">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="150" label="GRUMMAN AEROSPACE CORP">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="151" label="HORUS VISION LLC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="152" label="LENOVO SINGAPORE PTE LTD">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="153" label="MICROSOFT TECHNOLOGY LICENSING LLC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="154" label="NORTHROP GRUMMAN CORP">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="155" label="ORIGIN WIRELESS COMMUNICATIONS INC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="156" label="PJATIGORSKAJA G FARMATSEVTICHE">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="157" label="AKADEMIJA">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="158" label="REAL TIME COMPANIES">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="159" label="REYLABS INC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="160" label="SCHERING AG">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="161" label="WESTERNGECO SEISMIC HOLDINGS">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="162" label="WESTERNGECO LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="163" label="SONY CORP">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="164" label="TEXAS INSTRUMENTS INC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="165" label="THOMSON CSF">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="166" label="UNIV COLORADO REGENTS">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="167" label="UNIV RUTGERS">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="168" label="UNIV ZHEJIANG">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="169" label="UNMANNED INNOVATION INC">
+<attvalues>
+<attvalue for="0" value="5"/>
+</attvalues>
+</node>
+<node id="170" label="AAI CORP">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="171" label="ACT LIGHTING DESIGN">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="172" label="PUY DU FOU INTERNAT">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="173" label="CALSPAN CORP">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="174" label="CASE CORP">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="175" label="CAST GROUP OF COMPANIES INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="176" label="CGG SERVICES SA">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="177" label="COLT CANADA CORP">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="178" label="CONNECTQUEST LLC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="179" label="CONTRAVES AG">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="180" label="CORNING INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="181" label="DAMBALLA INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="182" label="EUROCOPTER DEUTSCHLAND">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="183" label="FEDERAL NOE G BJUDZHETNOE OBRAZOVATEL NOE UCHREZHDENIE VYSSHEGO PROFESSIONAL NOGO OBRAZOVANIJA STAVR">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="184" label="G OBRAZOVATEL NOE UCHREZHDENIE">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="185" label="GIAT IND SA">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="186" label="HONDA MOTOR CO LTD">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="187" label="PIONEER ELECTRONIC CORP">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="188" label="HYPERION BIOTECHNOLOGY">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="189" label="ISRAEL STATE">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="190" label="ISRAEL AIRCRAFT IND LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="191" label="UNIV FRASER SIMON">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="192" label="JADI INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="193" label="JPMORGAN CHASE BANK NA">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="194" label="KONINKL PHILIPS ELECTRONICS NV">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="195" label="LIGHTENING ENERGY">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="196" label="LOHMANN THERAPIE SYST LTS">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="197" label="MILITARY WRAPS RES AND DEV INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="198" label="MITSUBISHI ELECTRIC CORP">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="199" label="NANT HOLDINGS IP LLC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="200" label="NANTOMICS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="201" label="NASA">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="202" label="RAPID IMAGING SOFTWARE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="203" label="THE US ADMINISTRATOR OF THE NAT AERONAUTICS AND SPACE ADMINISTRATION">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="204" label="NEC CORP">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="205" label="NEC EUROPE LTD">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="206" label="NGUYEN GAMING LLC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="207" label="OCEUS NETWORKS INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="208" label="PERSONICS HOLDINGS INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="209" label="PROX DYNAMICS AS">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="210" label="ROSSIJSKAJA FEDERATSIJA OT IM KOTOROJ VYSTUPAET MIN PROMY I TORGOVLI RF MINPROMTORG ROSSII">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="211" label="RYAN AERONAUTICAL CO">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="212" label="SAMSUNG THALES CO LTD">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="213" label="SHANGHAI BAORUI INFORMATION TECHNOLOGY DEV CO LTD">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="214" label="SICPA SECURITY INKS   SYSTEMS USA INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="215" label="SKYBOX IMAGING INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="216" label="STANFORD RES INST INT">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="217" label="TERAHOP NETWORKS INC">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="218" label="UNIV JOHNS HOPKINS">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="219" label="GUILFORD PHARM INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="220" label="UNIV KING FAHD PET   MINERALS">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="221" label="UNIV MICHIGAN">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="222" label="UNIV NAT AGRARIAN">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="223" label="UNIV UMM AL QURA">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="224" label="ICAHN SCHOOL MED MOUNT SINAI">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="225" label="WESTINGHOUSE ELECTRIC CORP">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="226" label="ZD IM V A DEGTJAREVA AOOT">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="227" label="ZETTA RES AND DEV LLC FORC SERIES">
+<attvalues>
+<attvalue for="0" value="4"/>
+</attvalues>
+</node>
+<node id="228" label="ACCENTURE GLOBAL SERVICES LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="229" label="AEHROKON AOZT">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="230" label="ALLIED SIGNAL INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="231" label="ALPINEREPLAY INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="232" label="APPLE INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="233" label="ARINC INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="234" label="BECKLIN HOLDINGS INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="235" label="BEIJING HANGTIAN KEYI TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="236" label="BIOSPHERE AEROSPACE LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="237" label="CCP HF">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="238" label="CHANG INDUSTRY INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="239" label="CYNETIC DESIGNS LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="240" label="DAHRWIN LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="241" label="DARTMOUTH COLLEGE">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="242" label="DEUTSCH ZENTR LUFT   RAUMFAHRT">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="243" label="DIGIMARC CORP">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="244" label="DINGZHOU CITY LISHENG SPORTS GOODS CO LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="245" label="DONAN ENGINEERING CO INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="246" label="ELBIT SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="247" label="ELIX WIRELESS CHARGING SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="248" label="EMPIRE TECHNOLOGY DEVELPMENT LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="249" label="FEDEX CORPORATE SERVICES INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="250" label="FORD NEW HOLLAND INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="251" label="GEOLA TECHNOLOGIES LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="252" label="GEORGIA TECH RES INST">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="253" label="GM GLOBAL TECH OPERATIONS INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="254" label="GRAVITEC INSTR LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="255" label="GUIZHOU BOAN TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="256" label="HAAS INC JOHN I">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="257" label="HRL LAB LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="258" label="GEN MOTORS CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="259" label="INST FOREST ECOLOGY ENVIRONMENT   PROT CAF">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="260" label="INTEGRITY APPLIC INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="261" label="ISRAEL AEROSPACE IND LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="262" label="KCF TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="263" label="KIETTA">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="264" label="KOREA AEROSPACE RES INST">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="265" label="KOREA ELECTRONICS TELECOMM">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="266" label="IND ACADEMIC COOP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="267" label="KOREAN AIR LINES CO LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="268" label="KRAUSS MAFFEI WEGMANN GMBH   C">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="269" label="MBDA DEUTSCHLAND GMBH">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="270" label="MENTOR SUBSEA TECH SERV INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="271" label="MIZCO INTERNAT INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="272" label="M  RSK OLIE OG GAS AS">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="273" label="UNIV DANMARKS TEKNISKE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="274" label="NEURALA INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="275" label="UNIV BOSTON">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="276" label="NEXTER SYSTEMS">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="277" label="OOO PARAFARM">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="278" label="PFIZER">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="279" label="AMGEN FREMONT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="280" label="PHINERGY LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="281" label="PORSCHE AG">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="282" label="POWER MEASUREMENT LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="283" label="PROCTER   GAMBLE">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="284" label="REAL DATA GURU INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="285" label="RECONROBOTICS INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="286" label="REDDYS LAB LTD DR">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="287" label="ROLLS ROYCE">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="288" label="SAFT GROUPE SA">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="289" label="SAND 9 INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="290" label="SCIENCE APPLIC INT CORP">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="291" label="SHARE TECH SOFTWARE PTY LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="292" label="SINGER CO">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="293" label="SKYCATCH INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="294" label="SKYLIFE TECHNOLOGY HOLDINGS LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="295" label="SKYPERSONIC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="296" label="SYNABEE INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="297" label="SYNGENTA PARTICIPATIONS AG">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="298" label="THERANOS INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="299" label="TOSHIBA CORP">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="300" label="TOYOTA ENG   MFG NORTH AMERICA">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="301" label="TOYOTA INFOTECHNOLOGY CT USA INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="302" label="TRICORD HOLDINGS LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="303" label="UNIV BEIJING BUAA">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="304" label="UNIV CASE WESTERN RESERVE">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="305" label="UNIV COLUMBIA">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="306" label="UNIV KING ABDULLAH SCI   TECH">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="307" label="UNIV LELAND STANFORD JUNIOR">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="308" label="UNIV MICHIGAN STATE">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="309" label="UNIV RAMOT">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="310" label="UNIV TIANJIN">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="311" label="UNIV TSINGHUA">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="312" label="UT BATTELLE LLC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="313" label="UTEC SURVEY INC">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="314" label="VODAFONE IP LICENSING LTD">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="315" label="WARGAMING NET LLP">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="316" label="ZAHNRADFABRIK FRIEDRICHSHAFEN">
+<attvalues>
+<attvalue for="0" value="3"/>
+</attvalues>
+</node>
+<node id="317" label="A P M  LLER M  RSK AS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="318" label="ADACEL INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="319" label="ADDIBOTS LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="320" label="ADDISON LEE LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="321" label="AGRISIGHT INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="322" label="AIRGO DESIGN PTE LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="323" label="ALLIANT TECHSYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="324" label="ALZA CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="325" label="AMERICAN TECH CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="326" label="ANALOG DEVICES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="327" label="ANGEL ARMOR LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="328" label="ANGEL SECURE NETWORKS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="329" label="APPLIED CAVITATION INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="330" label="ARETE ASSOCIATES">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="331" label="ASCENTIA IMAGING INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="332" label="AURORA FLIGHT SCIENCES CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="333" label="AVAYA INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="334" label="BASTILLE NETWORKS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="335" label="BAYER CROPSCIENCE AG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="336" label="BBNT SOLUTIONS LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="337" label="BEIJING BEEHALL BIOPHARMACEUTICAL CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="338" label="BEIJING WEIBIAOZHIYUAN TECHNOLOGY DEV CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="339" label="BERG COMPANIES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="340" label="BERTIN TECHNOLOGIES SA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="341" label="BIMEDA INTERNAT PHARMACEUTICAL LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="342" label="BIOBEST BELGIUM NV">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="343" label="TOKAI TRADING CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="344" label="UNIV BRUXELLES">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="345" label="BRITISH AEROSPACE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="346" label="BRITTMORE GROUP LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="347" label="BSH BOSCH SIEMENS HAUSGERAETE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="348" label="BY LIGHT PROFESSIONAL IT SERVICES">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="349" label="CANADAIR LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="350" label="CASSIDIAN AIRBORNE SOLUTIONS GMBH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="351" label="CESTRIAN IMAGING LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="352" label="CETACEA NETWORKS CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="353" label="CHENGDU CHENGKE XIONGDI HONEY INDUSTRY CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="354" label="CHINA EWATT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="355" label="CHINA RAILWAY BAOJI BRIDGE GROUP CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="356" label="CHINESE ACAD INST AUTOMATION">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="357" label="CIBA GEIGY AG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="358" label="VOEST AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="359" label="CISCO TECH INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="360" label="CISCO TECH IND">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="361" label="CLARK EQUIPMENT CO">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="362" label="CLIMATE CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="363" label="CLOUDLEAF INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="364" label="COMMW OF AUSTRALIA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="365" label="COMMW SCIENT IND RES ORG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="366" label="CONTI TEMIC MICROELECTRONIC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="367" label="CONVIDA WIRELESS LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="368" label="CROWN INT">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="369" label="CYGNUS THERAPEUTIC SYSTEMS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="370" label="DAIMLER CHRYSLER AG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="371" label="DASSAULT AVIAT">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="372" label="DH HOLDINGS CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="373" label="UNIV KOOKMIN IND ACAD COOP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="374" label="DRAGANFLY INNOVATIONS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="375" label="DRAGONFLY PICTURES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="376" label="DRONE TECHNOLOGY PTE LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="377" label="DRS SUSTAINMENT SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="378" label="DU PONT">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="379" label="ECA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="380" label="ELEMENT INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="381" label="ENGINEERED PROPULSION SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="382" label="ETHICON INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="383" label="EURENCO FRANCE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="384" label="FAIRCHILD WESTON SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="385" label="FEDERAL NOE G KAZENNOE VOENNOE UCHREZHDENIE VYSSHEGO PROFESSIONAL NOGO OBRAZOVANIJA VOENNAJA AKADEMI">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="386" label="FEDERAL NOE GUP TSENTRAL NYJ AEHROGIDRODINAMICHESKIJ INST IM PROFESSORA N E ZHUKOVSKOGO FGUP TSAGI">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="387" label="FEV GMBH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="388" label="FLEXTRONICS AP LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="389" label="FLIGHT OF THE CENTURY INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="390" label="FLUIDION SAS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="391" label="FOSTER MILLER INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="392" label="FUJIAN WEISHENG SECURITY EQUIPMENT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="393" label="FUJITSU LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="394" label="GAITHER TOOL COMPANY INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="395" label="GALILEO GROUP INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="396" label="GEOFRENZY INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="397" label="GEORAMA INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="398" label="GILEAD SCIENCES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="399" label="GOGO LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="400" label="GOODYEAR AEROSPACE CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="401" label="GRENZEBACH MASCHB GMBH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="402" label="HARVARD COLLEGE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="403" label="HELICO AEROSPACE IND SIA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="404" label="HELLER E   CO">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="405" label="HERAKLES">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="406" label="HICKSTECH CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="407" label="HOECHST AG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="408" label="HOFFMANN LA ROCHE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="409" label="HOLOGRAPHICS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="410" label="HON HAI PREC IND CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="411" label="UNIV QINGHUA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="412" label="HUBEI HECHANG NEW MATERIAL TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="413" label="HUGHES AIRCRAFT CO">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="414" label="HUMAN GENOME SCIENCES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="415" label="HUNCHUN GUOYAOBOCHENG TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="416" label="INNALABS TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="417" label="INNOVATIVE AMERICAN TECHNOLOGY">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="418" label="INNURVATION INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="419" label="INST OF ROCK   SOIL MECH CAS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="420" label="INST PLANT PROTECTION IPP CAAS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="421" label="UNIV JILIN AGRICULTURAL">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="422" label="UNIV NORTHWEST A F">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="423" label="INST SUPERIEUR DE L AERONAUTIQUE ET DE L ESPACE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="424" label="INT ELECTRONIC MACHINES CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="425" label="INT HARVESTER CO">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="426" label="INTELLIGENT TECH INT INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="427" label="INTERNAT MULTI MEDIA CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="428" label="INVENTUS ENGINEERING GMBH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="429" label="ION POWER GROUP LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="430" label="ITT">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="431" label="JAGUAR LAND ROVER LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="432" label="JIANGXI AGRICULTURAL UNIVERSITY INST OF BEE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="433" label="LANXI HONGXIANG BIO TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="434" label="JIANGXI HONGDU AVIAT IND GROUP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="435" label="JIGABOT LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="436" label="JINHUA COLLEGE OF PROFESSION   TECH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="437" label="KENWOOD CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="438" label="KESPRY INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="439" label="KLOECKNER HUMBOLDT DEUTZ AG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="440" label="KONGSBERG DEFENCE   AEROSPACE AS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="441" label="KONGSBERG VAPENFAB AS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="442" label="LAKESIDE LABS GMBH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="443" label="LEAR SIEGLER INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="444" label="LENNOX MFG INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="445" label="LICENTIA GMBH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="446" label="LILY ROBOTICS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="447" label="LOGOS TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="448" label="LUCASFILM ENTERTAINMENT CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="449" label="MAKEFIELD LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="450" label="MARKETS ALERT PTY LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="451" label="MAX PLANCK GESELLSCHAFT">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="452" label="MBFARR LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="453" label="MC DONNELL DOUGLAS CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="454" label="METAWAVE COMM CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="455" label="METEO SYSTEMS INTERNAT AG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="456" label="MICROSTRATEGY INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="457" label="MITSUBISHI HEAVY IND LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="458" label="MOLLER INT INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="459" label="MTCT GROUP LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="460" label="MTU AERO ENGINES AG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="461" label="MUTH K W CO INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="462" label="MUTUALINK INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="463" label="MYSPACE INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="464" label="NANJING SCIENCE   ENGINEERING">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="465" label="NANOCOMP TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="466" label="NCR CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="467" label="NEC LAB AMERICA INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="468" label="NEOTERRA SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="469" label="NEW WAY MACHINE COMPONENTS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="470" label="NEXTER MUNITIONS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="471" label="NOKIA TECH OY">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="472" label="NOKIA USA INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="473" label="NVIDIA CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="474" label="NXP BV">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="475" label="ONERA (OFF NAT AEROSPATIALE">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="476" label="OPEN RANGE CONSULTING">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="477" label="PACCAR INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="478" label="PALO ALTO RES CT INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="479" label="PANASONIC CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="480" label="PETRITECH INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="481" label="PHERO TECH INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="482" label="PHYSICAL DEVICES LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="483" label="PHYSICAL OPTICS CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="484" label="PICTOMETRY INT CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="485" label="PLANT GENETIC SYSTEMS NV">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="486" label="POINTIVO INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="487" label="POLK INVESTMENT CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="488" label="POSITION IMAGING INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="489" label="PRIMAL SPACE SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="490" label="QFO LABS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="491" label="RAYTHEON UTD INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="492" label="RESOUND CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="493" label="RESPINOVA LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="494" label="RINGCENTRAL INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="495" label="ROBONIC LTD OY">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="496" label="ROWBOT SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="497" label="SANDIA CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="498" label="SANOFI SA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="499" label="SCOPE TECHNOLOGIES HOLDINGS LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="500" label="SEESCAN INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="501" label="SHAANXI LAOQIANG TARGET CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="502" label="SHAANXI LAOQIANG TECHNOLOGY ENGINEERING CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="503" label="SHARPER SHAPE LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="504" label="SHEET DYNAMICS LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="505" label="SHENZHEN AEE AVIAT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="506" label="SHINGY KK">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="507" label="SHZ DTSZI TEKNOLODZHI KO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="508" label="SIGNATURE SCIENCE LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="509" label="SILICIS TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="510" label="SIMLESS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="511" label="SINE WAVES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="512" label="SINIGER LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="513" label="SMARTSKY NETWORKS LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="514" label="SMITHS AEROSPACE INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="515" label="SOIL IQ INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="516" label="SONY COMP ENTERTAINMENT INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="517" label="SPACE SYSTEMS/LORAL LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="518" label="SPARTON CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="519" label="SPERRY RAND CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="520" label="SYNERGY BLUE LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="521" label="SYSTEMS ENGINEERING ASSOCIATES CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="522" label="SYSTEMS ENGINEERING TECHNOLOGIES CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="523" label="TECH DIRECTIONS INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="524" label="TELEPATHEYE INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="525" label="TEXAS A   M UNIV SYS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="526" label="CONTECH ENTPR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="527" label="THALES DEFENCE DEUTSCHLAND GMBH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="528" label="TIANJIN CHANGSONG FOOD CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="529" label="TRANSVOYANT LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="530" label="TYCO FIRE   SECURITY GMBH">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="531" label="TYRATECH INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="532" label="ULTRATA LLC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="533" label="UNIV BEIJING AGRICULT">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="534" label="UNIV BRISTOL">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="535" label="INTERCEDE VENTURES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="536" label="UNIV LEEDS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="537" label="UNIV MASSACHUSETTS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="538" label="UNIV MIAMI">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="539" label="UNIV NORTH CAROLINA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="540" label="UNIV NORTHWESTERN">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="541" label="UNIV SOUTH FLORIDA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="542" label="UNIV TEXAS">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="543" label="UNIV UTAH RES FOUND">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="544" label="UNIV WARWICK">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="545" label="UNIV YUNNAN">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="546" label="URTHECAST CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="547" label="VALE SA">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="548" label="VELO3D INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="549" label="VOEGELE AG J">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="550" label="VOLKSWAGEN AG">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="551" label="VOXX INT CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="552" label="WEST CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="553" label="WORKING DRONES INC">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="554" label="XI AN AIRCRAFT DESIGN INST CHINA AVIAT IND CORP">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="555" label="XINAN TEACHER S UNIV">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="556" label="YUNNAN POWER GRID CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="557" label="XIANHENG INTERNAT HANGZHOU AVIAT AUTOMATION CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="558" label="ZENECA LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="559" label="ZHUHAI XINGYU MODEL IND CO LTD">
+<attvalues>
+<attvalue for="0" value="2"/>
+</attvalues>
+</node>
+<node id="560" label="21 CT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="561" label="21ST CENTURY AIRSHIPS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="562" label="360 HEROS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="563" label="360FLY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="564" label="6115187 CANADA D B A IMMERVISION INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="565" label="9178066 CANADA INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="566" label="ABB RESEARCH LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="567" label="ABEX CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="568" label="ABL IP HOLDING LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="569" label="ACCELERATED MEDIA TECH INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="570" label="ACCESS BUSINESS GROUP INT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="571" label="ACCURATE AUTOMATION CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="572" label="ACTIVE AIR LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="573" label="ADAPTIVE MUSIC FACTORY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="574" label="ADIDAS AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="575" label="ADM ALLIANCE NUTRITION INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="576" label="ADVANCED AMERICAN ENTPR LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="577" label="ADVANCED INTERACTION INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="578" label="ADVANCED LIQUID LOGIC INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="579" label="ADVANCED OPTICAL SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="580" label="ADVITECH INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="581" label="AE PLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="582" label="AEROBOTIC INNOVATIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="583" label="AEROBUGS PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="584" label="AEROSPY SENSE   AVOID TECHNOLOGY GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="585" label="AERYON LABS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="586" label="AGCO CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="587" label="AGFA AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="588" label="AGFA GEVAERT NV">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="589" label="AGILE ENDOSURGERY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="590" label="AGILENT TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="591" label="AGLYTIX INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="592" label="AGRI CON GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="593" label="AGT INTERNAT GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="594" label="AIBOTIX GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="595" label="AILIVE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="596" label="AIR INNOVATIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="597" label="AIRMAP INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="598" label="AIROBOTICS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="599" label="AIRPHRAME INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="600" label="AJU CORP CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="601" label="AKRON MOLECULES GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="602" label="ALAKAI TECHNOLOGIES CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="603" label="ALAN AULD ENG LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="604" label="ALCAN INT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="605" label="ALCIDE CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="606" label="ALFA YUTA PROMPTING DEVELOMPMENT AND ADVANCED TECHNOLOGY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="607" label="ALIEN TOOL KIT SOFTWARE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="608" label="ALLIED STEEL TRACTOR PROD INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="609" label="ALLIEDSIGNAL ELAC NAUTIK GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="610" label="ALNYLAM PHARMACEUTICALS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="611" label="ALPHAMED INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="612" label="ALTOR LTD LC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="613" label="ALUSUISSE LONZA SERVICES AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="614" label="AMALGAMATED WIRELESS LIMITED">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="615" label="AMERICAN SCIENCE   ENG INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="616" label="AMERICAN WATER WORKS COMPANY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="617" label="AMETEK AMERON LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="618" label="AMGEN INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="619" label="ANDRA MOTION TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="620" label="ANDREW LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="621" label="ANDY   BOB S CRAZY ENTPR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="622" label="ANTIQUITY MUSIC LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="623" label="AOL INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="624" label="APIS IMKEREIPRODUKTE GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="625" label="APPAREO SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="626" label="APPLIED ELECTRONICS RES INST O">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="627" label="AQUIFI INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="628" label="AQUIMO LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="629" label="ARCH AERIAL LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="630" label="ARCHEOPTIX BIOMEDICAL INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="631" label="ARCHETYPE TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="632" label="ARCIT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="633" label="ARK IDEAZ INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="634" label="ARPENT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="635" label="ARTSYS360 LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="636" label="ARVINMERITOR TECHNOLOGY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="637" label="ASAHI GLASS CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="638" label="ASCENT AEROSYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="639" label="ASHCORP TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="640" label="ASK IND SPA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="641" label="ASK Y LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="642" label="ASTRAZENECA AB">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="643" label="ASTRIUM GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="644" label="ATLANTIC RES CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="645" label="ATLAS BARBELL LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="646" label="ATLAS ELEKTRONIK UK LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="647" label="ATO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="648" label="ATTOBAHN INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="649" label="AUCTION COM LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="650" label="AUDIENCE ENTERTAINMENT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="651" label="AUDIENCE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="652" label="AUDIO TECHNICA KK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="653" label="AUDIOVOX CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="654" label="AUNT BEA S BACKYARD BEEHIVES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="655" label="AURIZON OPERATIONS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="656" label="AURORA PRODUCTS CANADA LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="657" label="AUSTPOLE PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="658" label="AUTOCONNECT HOLDINGS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="659" label="AUTOTALKS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="660" label="AVAILON GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="661" label="AVALON ALLIANCE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="662" label="AVASENSOR LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="663" label="AVEILLANT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="664" label="AVENTIS PHARMA INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="665" label="AVIATION COMMUNICATION   SURVELLIANCE SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="666" label="AVIGILON FORTRESS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="667" label="AVIOWAN US INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="668" label="AZIMUTH TECHNOLOGIES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="669" label="AZURE SKY GROUP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="670" label="B3 LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="671" label="BABCOCK ELECTRONICS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="672" label="BAE SYSTEMS AUSTRALIA LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="673" label="BAKER HUGHES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="674" label="BARRETT TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="675" label="BASF AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="676" label="BAY TEK GAMES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="677" label="BAYER ANIMAL HEALTH GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="678" label="BAYER HEALTHCARE LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="679" label="BAYER PHARMA AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="680" label="BBN TECHNOLOGIES CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="681" label="BCB INT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="682" label="TORQUING GROUP LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="683" label="BEACONWATCH LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="684" label="BEE INST CHINESE ACADEMY OF AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="685" label="BEE ROBOTICS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="686" label="BEIING AEROSPACE UNIV">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="687" label="BEIJING ACAD AGRIC   FORESTRY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="688" label="BEIJING BAIHUA BEE PRODUCT TECHNOLOGY DEV CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="689" label="BEIJING ECKMAN BIO TECH CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="690" label="BEIJING JUNXING RUILONG TECHNOLOGY DEV CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="691" label="BEIJING TECHNOLOGY UNIV">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="692" label="BEIJING TIANHANG HUACHUANG SCIENCE   TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="693" label="BEIJING XINANTONG SHOOTING RANGE ARMING TECHNICAL CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="694" label="BEIJING YANGSHEN BIOINFORMATIC TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="695" label="BELL HELICOPTER TEXTRON INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="696" label="BELL TRADING INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="697" label="BELLES RESEARCH CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="698" label="BELTONE ELECTRONICS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="699" label="BERICO TAILORED SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="700" label="BIO KEY INT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="701" label="BIOCARBON ENGINEERING LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="702" label="BIOGLOW LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="703" label="BIOMETRY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="704" label="BISCOTTI INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="705" label="BIZZY ROBOTS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="706" label="BLACK RAM ENG SERVICES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="707" label="BLACKLIGHT POWER INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="708" label="BLACKNIGHT HOLDINGS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="709" label="BLACKSPACE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="710" label="BLADES INC I">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="711" label="BLANCO GMBH   CO KG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="712" label="BLUE RIVER TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="713" label="BLUE TRIBE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="714" label="BLUE YONDER LABS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="715" label="BOREALIS TECH LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="716" label="BOUNCE IMAGING INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="717" label="BOWLING BREEN STATE UNIVERSITY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="718" label="BRAMMALL INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="719" label="BREATH RES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="720" label="BRILLIANETOR LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="721" label="BRINGRR SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="722" label="BRITISH AIRCRAFT CORP LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="723" label="BROADCOM CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="724" label="BROWSEPLAY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="725" label="BRUPAT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="726" label="BUFFALO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="727" label="C   P TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="728" label="C2 SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="729" label="CALEDONIAN AIRBORNE SYST LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="730" label="CALIFORNIA INST OF TECHN">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="731" label="CANOPY CO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="732" label="CAPE PRODUCTIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="733" label="CARSAF LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="734" label="CARTWRIGHT ENG INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="735" label="CASSIDIAN COMMUNICATIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="736" label="CASSIDIAN LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="737" label="CASTLE CREATIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="738" label="CATAPULT GROUP INTERNAT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="739" label="CBS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="740" label="CELECTIVE SOURCE AB">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="741" label="CELINAR GAMES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="742" label="CENTRE NAT ETD SPATIALES">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="743" label="CENTURYLINK IP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="744" label="CERENIS THERAPEUTICS HOLDING SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="745" label="CFPH LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="746" label="CHEMICAL BIOSENSORS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="747" label="CHENG UEI PREC IND CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="748" label="CHENGDU CHENGKE BROTHERS BEE INDUSTRY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="749" label="CHENGDU QUNXIA TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="750" label="CHENGDU YUYA SCIENCE   TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="751" label="CHINA ACADEMY OF AEROSPACE AER">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="752" label="CITRIX SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="753" label="CIVITANAVI SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="754" label="CLANDESTINE DEV LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="755" label="CLEAN ENERGY LABS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="756" label="CLEVIS FULCRUM LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="757" label="CLIPCAST TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="758" label="CLOUDCAR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="759" label="CLOWD LAB LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="760" label="COGNEX TECH   INVESTMENT CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="761" label="COLLEGE WILLIAM   MARY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="762" label="COLT SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="763" label="COLUMBUS STATE UNIVERSITY RES SERVICE FOUNDATION INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="764" label="COMBAT ACTION LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="765" label="COMMAND COLLEGE OF THE CHINESE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="766" label="COMPAQ COMPUTER CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="767" label="COMPOSITE ENGINEERING INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="768" label="CONSTRUC STANDARD TESTING CT CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="769" label="CONTENT ANALYST COMPANY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="770" label="CONTEXTUS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="771" label="COPERNICA INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="772" label="CORNFIELD ELECTRONICS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="773" label="CORTENDA AB">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="774" label="CORVENTIS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="775" label="COX AUTOMOTIVE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="776" label="CRANFIELD AEROSPACE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="777" label="CREATIVE SEATING TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="778" label="CROWDFLIK INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="779" label="CUBIC CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="780" label="CURIS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="781" label="CWW GERKO AKUSTIK GMBH   CO KG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="782" label="CYBERHAWK INNOVATIONS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="783" label="CYCLOPS TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="784" label="CYLENE PHARMACEUTICALS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="785" label="DATAFLYTE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="786" label="DAVIS AEROSPACE CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="787" label="DECISION SCIENCES INT CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="788" label="DECISIONGPS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="789" label="DEEP LEARNING ANALYTICS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="790" label="DEFENS TECH INTERNAT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="791" label="DEJERO LABS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="792" label="DENSO CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="793" label="DESIGNLAW LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="794" label="OVE ARUP PARTNERSHIP LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="795" label="DETNET SOUTH AFRICA PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="796" label="DEZIGNEREX GROUP PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="797" label="DIATECH PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="798" label="DIGITALGLOBE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="799" label="DIMENSION INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="800" label="DIOMICS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="801" label="DIRECT MARKETING SOFTWARE PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="802" label="DIVERSEY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="803" label="DOLBY LAB LICENSING CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="804" label="DONG WHA PHARM CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="805" label="DONNELL GRIFFIN PTY LTD O">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="806" label="DONUTS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="807" label="DOOSAN HEAVY IND CONSTRUCTION CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="808" label="DOSE PLAN INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="809" label="DOWN DEEP   UP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="810" label="DREAMSCAPE MEDICAL LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="811" label="DRONESHIELD LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="812" label="DRONEWARE TECH CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="813" label="DRS TEST   ENERGY MAN LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="814" label="DUNLYON R   D INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="815" label="DYNAMIT NOBEL AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="816" label="EATON CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="817" label="ECOLE NATIONALE DES PONTS ET CHAUSSEES">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="818" label="ECOLE POLYTECH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="819" label="ECRIO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="820" label="ELECTRAWATCH INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="821" label="ELECTRONAIR LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="822" label="ELECTRONIC ARTS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="823" label="ELECTRONIC CREDIT SYSTEMS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="824" label="ELECTRONICS AND TELECOMMUNICATIONS RES INST">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="825" label="ELEVEN VISUAL LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="826" label="ELILILLY AND COMPANY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="827" label="ELITE POWER SOLUTIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="828" label="ELTA SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="829" label="ELTOPIA COMMUNICATIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="830" label="EMCORE SOLAR POWER INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="831" label="EMINENT TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="832" label="TECHNOLOGY INTERNAT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="833" label="ENCORE COMPUTER CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="834" label="ENERTROLS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="835" label="ENKI TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="836" label="ENTEX IND INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="837" label="ENVIRONX SOLUTIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="838" label="EPHESUS LIGHTING INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="839" label="ERMI INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="840" label="ESCO CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="841" label="ESSESS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="842" label="ESURANCE INSURANCE SERVICES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="843" label="ETHER DYNAMICS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="844" label="EUROSIMTEC GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="845" label="EW SIMULATION TECHNOLOGY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="846" label="EXAGRID SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="847" label="EXEDY CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="848" label="EXOSECT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="849" label="EYE R SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="850" label="EYESEE360 INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="851" label="F ROBOTICS ACQUISITIONS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="852" label="FANWING LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="853" label="FARMIGEA SPA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="854" label="FARNSWORTH   BUDGE LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="855" label="FEDERAL NOE G KAZENNOE UCHREZHDENIE 12 TSENTRAL NYJ NII MIN OBORONY RF">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="856" label="FEENEY WIRELESS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="857" label="FIAT ALLIS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="858" label="FIRST RESOURCE MAN GROUP INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="859" label="FIRST SENSOR AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="860" label="FISCHER IMAGING CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="861" label="FLORIDA INT UNIV BOARD TRUSTEES">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="862" label="FLORIDIENNE SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="863" label="FLYNEYE PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="864" label="FORCE SV LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="865" label="FOSTER AIRDATA SYST INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="866" label="FOUNDATION PRODUCTIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="867" label="FOX SPORTS PRODUCTIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="868" label="FR LURSSEN WERFT GMBH   CO">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="869" label="FREEFLIGHT ACQUISITION CORP DBA FREEFLIGHT SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="870" label="FRESH DIGITAL INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="871" label="FROZEN MOTION PTE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="872" label="FU HWA MACHINE CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="873" label="FUELIE SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="874" label="FUGRO CANADA CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="875" label="FUJI HEAVY IND LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="876" label="FUJITSU TEN LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="877" label="FUR SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="878" label="GABLER GMBH MASCHBAU">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="879" label="GARINI TECHNOLOGIES CORP PTE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="880" label="ZEPHYR TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="881" label="GARRETT CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="882" label="GAS PUMP TV LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="883" label="GATEWING NV">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="884" label="GEKE TECHNOLOGIE GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="885" label="GEN ATOMICS AERONAUTICAL SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="886" label="GEN DYNAMICS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="887" label="GEN HOSPITAL CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="888" label="GENDEX CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="889" label="GENENTECH INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="890" label="GENSCAPE INTANGIBLE HOLDING INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="891" label="GEOSENSOR CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="892" label="GEOSTELLAR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="893" label="GFA AVIATION TECH BEIJING CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="894" label="GFS CORP AUS PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="895" label="GIATEC SCIENT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="896" label="GIESECKE   DEVRIENT US INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="897" label="GIGAVAC LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="898" label="GKN SINTER METALS ENGINEERING GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="899" label="GLENMARK GENERICS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="900" label="GLENMARK PHARMACEUTICALS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="901" label="GLOBAL AERIAL PLATFORMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="902" label="GLOBAL GROUND SUPPORT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="903" label="GLYCOFI INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="904" label="GO TAXI TRUCK LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="905" label="GOAL ZERO LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="906" label="GOODRICH CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="907" label="GOPRO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="908" label="GPS OF THINGS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="909" label="GRACO CHILDRENS PROD INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="910" label="GRAPHENE 3D LAB INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="911" label="GRAVITY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="912" label="GREEN BADGE LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="913" label="GREEN SHOOTS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="914" label="GUANGZHOU FAST COMP SCIENCE AND TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="915" label="GUMMIWERK KRAIBURG GMBH   CO KG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="916" label="H4 ENG INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="917" label="HANKOOKIN INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="918" label="HARBIN JIANCHENG TASK TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="919" label="HARSCO TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="920" label="HAYES INT CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="921" label="HCL TECHNOLOGIES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="922" label="HEARTTHROB EXHAUST INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="923" label="HEATWURX INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="924" label="HEBEI HUANHANG TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="925" label="HEBEI JIUXIN DISASTER REDUCTION EQUIPMENT RES INST">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="926" label="HEHAI UNIVERSITY CHANGZHOU">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="927" label="HEILONGJIANG RAOFENG NATIVE PRODUCE PROC CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="928" label="HELMHOLTZ ZENTRUM M  NCHEN DEUTSCHES FORSCHUNGSZENTRUM F  R GESUNDHEIT UND UMWELT GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="929" label="SIRION BIOTECH GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="930" label="HERRICK TECHNOLOGY LABS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="931" label="HERZOG RAILROAD SERVICES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="932" label="HESSTON CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="933" label="HGZ PATENTVERMARKTUNGS GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="934" label="HILEBEN CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="935" label="HOME PRODUCERS NETWORK LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="936" label="HUFFORD CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="937" label="HUGHES NETWORK SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="938" label="HUIZHOU CHINA EAGLE ELECTRONIC TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="939" label="HUNAN HEETIAN INFORMATION TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="940" label="HUNAN ZHONGYI AMUSEMENT EQUIPMENT CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="941" label="HUZHOU CENTER HOSPITAL">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="942" label="HVLP02 LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="943" label="HYDROACOUSTICS BRANCH OF MARITIME HYDROPHYSICAL INST OF THE NAT ACADEMY OF SCIENCES OF UKRAINE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="944" label="UNIV ODESA STATE MEDICAL">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="945" label="HYPERLOOP TECH INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="946" label="HZHYTSKYI LVIV NAT UNIVERSITY OF VETERINARY MEDICINE AND BIOTECHNOLOGIES">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="947" label="HZO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="948" label="IAC IN NAT UNIV CHUNGNAM">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="949" label="IBERDROLA RENEWABLES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="950" label="ICT RES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="951" label="IDEAL POWER INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="952" label="IDENTIFLIGHT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="953" label="IEC INFRARED SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="954" label="IKUNI INC A CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="955" label="ILLUMAGEAR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="956" label="IMAGE ACOUSTICS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="957" label="IMAJE SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="958" label="IMI INNOVATIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="959" label="IMMERSION CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="960" label="IMMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="961" label="IMP INNOVATIONS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="962" label="IMPERX INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="963" label="INCIPIO TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="964" label="IND TECH GROUP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="965" label="INDOORGO NAVIGATION SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="966" label="INDUSTRY ACADEMIC COOPERATION FOUNDATION AT NAMSEOUL UNIV">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="967" label="INFRARED CAMERAS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="968" label="INGENIERIE DE RECH S ET D ETUDES EN HYDRODYNAMIQUE NAVAL PAR ABREVIATION SIREHNA SOC D">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="969" label="INGENIOUS VENTURES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="970" label="INNOPIX INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="971" label="INNOVATION INST LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="972" label="INRIA INST NAT DE RECH EN INFORMATIQ">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="973" label="INST NAT RECH INF AUTOMAT">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="974" label="INRIX INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="975" label="INSIGHTS INTERNAT HOLDINGS LLC DBA NAN TRAK IND">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="976" label="INST AUTOMATION HEILONGJIANG ACADEMY OF SCIENCES">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="977" label="INT AUTOMATED SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="978" label="INT STANDARD ELECTRIC CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="979" label="STANDARD ELEKTRIK LORENZ AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="980" label="INTELLIGENT FUSION TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="981" label="INTERNAT AUTOMATED SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="982" label="INTERPRAPHONE LIMITED">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="983" label="INTERSTATE ELECTRONICS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="984" label="INTORA FIREBIRD HOLDINGS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="985" label="INTROSPECTIVE POWER INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="986" label="INVENSENSE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="987" label="INVENT IY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="988" label="INVITROGEN CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="989" label="IOCULI INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="990" label="IP HOLDINGS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="991" label="IP SERVICE KK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="992" label="IPOSI INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="993" label="IRVIN INDUSTRIES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="994" label="ISI LIFE SCIENCES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="995" label="ISPD INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="996" label="ITRON INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="997" label="ITT MFG ENTERPRISES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="998" label="IX INNOVATIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="999" label="JAVAD GNSS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1000" label="JENCAP RESEARCH LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1001" label="JIANGSU EVATE SOFT CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1002" label="JINAN HANGYINA SCIENCE AND TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1003" label="JOHNSON MANUFACTURING COMPANY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1004" label="JUNGHEINRICH AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1005" label="JUNILAB INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1006" label="JUNPENG SPECIAL EQUIPMENT CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1007" label="JURONG SHIPYARD PTE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1008" label="KAMA TECH HK LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1009" label="LASER TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1010" label="KAMAN MUSIC CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1011" label="KASAMA HELICOPTER CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1012" label="ROYAL THAI NAVY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1013" label="SERI ENTPR CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1014" label="KAWADA KOGYO KK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1015" label="KEE ACTION SPORTS I LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1016" label="KIA MOTORS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1017" label="KINZE MFG INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1018" label="KISWE MOBILE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1019" label="KITOV SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1020" label="KMS CONSULTING LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1021" label="KNORR BREMSE GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1022" label="KOBE STEEL LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1023" label="KONARKA TECHNOLGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1024" label="KOPIN CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1025" label="KOREN RON SYSTEMS COMM LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1026" label="KOUBACHI AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1027" label="KRUPP GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1028" label="KUBOTA KK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1029" label="KUNSHAN HWAYUNG ELECTRONICS CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1030" label="KURV MUSIC LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1031" label="KUTTA TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1032" label="KYORIN SEIYAKU KK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1033" label="KYOWA ELECTRONIC INSTR LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1034" label="KYOWA HAKKO KOGYO KK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1035" label="KYOWA YUKA KK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1036" label="KYUNG AN WIRE   CABLE CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1037" label="L 3 COMM INTEGRATED SYS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1038" label="L LIVERMORE NAT SECURITY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1039" label="LAING O ROURKE AUSTRALIA PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1040" label="LAMBDA 4 ENTWICKLUNGEN GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1041" label="LAMDAGEN CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1042" label="LANDAUER INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1043" label="LANDIS   GYR INNOVATIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1044" label="LASER SCIENCE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1045" label="LASERMAX INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1046" label="LATITUDE ENGINEERING LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1047" label="LAVASTORM TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1048" label="LBE TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1049" label="LEAP MOTION INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1050" label="LECO CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1051" label="LEGEND3D INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1052" label="LEICA GEOSYSTEMS AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1053" label="LELY PATENT NV">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1054" label="LENS VENTURES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1055" label="LETUS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1056" label="LEVIATHAN ENTERTAINMENT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1057" label="LIFT TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1058" label="LIG NEX1 CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1059" label="LILLY INDUSTRIES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1060" label="LIONEL LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1061" label="LITEL INSTR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1062" label="LIVE MEDIA PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1063" label="LLC DAQRI LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1064" label="LOBE VENTURES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1065" label="LOGITECH EUROP SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1066" label="LONGEVITY BIOTECH INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1067" label="LORAL CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1068" label="LORAL FAIRCHILD CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1069" label="LORAL VOUGHT SYSTEMS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1070" label="LOS ALAMOS NAT SECURITY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1071" label="LS BERATUNGSBUERO LUBLOW GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1072" label="LSI INDUSTRIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1073" label="LUGOVATIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1074" label="LUK GETRIEBE SYSTEME GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1075" label="LURYTO LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1076" label="MA ANSHAN SAIDI INTELLIGENT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1077" label="MAANSHAN AHUT IND TECHNOLOGY RES INST CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1078" label="MACKIE DESIGNS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1079" label="MAGIK EYE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1080" label="MAGNA ELECTRONICS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1081" label="MALLOY AERONAUTICS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1082" label="MANNESMANN SACHS AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1083" label="MAPI PHARMA HOLDINGS CYPRUS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1084" label="MAPLE FLEET SERVICES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1085" label="MARMON GROUP INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1086" label="MARQMETRIX INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1087" label="MASSEY FERGUSON SERVICES NV">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1088" label="MATEC HOLDING AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1089" label="MATTERPORT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1090" label="MAX SOUND CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1091" label="MAXWELL CONSULTING LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1092" label="MBDA UK LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1093" label="MEADOW HILLS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1094" label="MEDALLION INSTRUMENTATION SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1095" label="MEDAPPIT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1096" label="MEDICAL PRIVACY SOLUTIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1097" label="MEDICINSK TEKNISK KONSULTATION K. AJLAND AB">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1098" label="MEDLEGAL NETWORK INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1099" label="MEGA TRAX CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1100" label="MEIJI SEIKA PHARMA CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1101" label="MEMSIC INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1102" label="MERCK   CO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1103" label="MERITOR HEAVY VEHICLE SYS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1104" label="META C CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1105" label="METHODIST HOSPITAL RES INST">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1106" label="MH SOLAR CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1107" label="MICRO MOBIO CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1108" label="MICRODRONES GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1109" label="MICROPILOT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1110" label="MINGGUANG HAOHAO BEES CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1111" label="MINISTRY OF NAT DEFENSE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1112" label="MIRAVEO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1113" label="MITRE CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1114" label="MOBILETRAC LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1115" label="MOER POWER BEIJING TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1116" label="MONFORD AG SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1117" label="MONTEDISON SPA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1118" label="MORGAN AIRCRAFT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1119" label="MSG MARINE- UND SONDERTECHNIK GMBH, 2800 BREMEN, DE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1120" label="MTD PRODUCTS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1121" label="MUSCO CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1122" label="MYEXPOSOME INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1123" label="MYWORLD MEDIASTUDIO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1124" label="N2 GLOBAL SOLUTIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1125" label="NAGRAVISION SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1126" label="NANHUA MIYILU NATURAL FOOD DEV CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1127" label="NANJING HJ JINYUAN OPTOELECTRONIC MATERIAL CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1128" label="NANJING YOURUICHUANG INTELLIGENT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1129" label="NANTMOBILE LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1130" label="NATUREWISE BIOTECH   MEDICALS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1131" label="NAVISTAR INT CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1132" label="NAVIWORLD LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1133" label="NAVTEQ NORTH AMERICA LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1134" label="NCI SWISSNANOCOAT SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1135" label="NELSON IRRIGATION CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1136" label="NES   TEC CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1137" label="NEURIC TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1138" label="NEWCARE PRODUCTS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1139" label="NEWMARK INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1140" label="NINE IP LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1141" label="NINTENDO CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1142" label="NIPPON CABLE SYSTEM INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1143" label="NIRVANA ENERGY SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1144" label="NO 60 RES INST OF GENERAL STAF">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1145" label="NOKIA CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1146" label="NOKOMIS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1147" label="NORLIN IND INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1148" label="NORTEL NETWORKS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1149" label="NORTON MOTORS LIMITED">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1150" label="NOVARTIS AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1151" label="NOVARTIS PHARMA GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1152" label="NPC ROBOTICS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1153" label="NTHDEGREE TECH WORLDWIDE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1154" label="NUMBERGUN LLC A UTAH LTD LIABILITY COMPANY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1155" label="OAHU GROUP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1156" label="OCADO INNOVATION LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1157" label="OCEANEOS ENVIRONMENTAL SOLUTIONS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1158" label="OIL   GAS IT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1159" label="OIL CROPS RES INST CAAS">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1160" label="ONDECK DIGITAL LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1161" label="ONKYO SOUND   VISION CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1162" label="OOMA INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1163" label="OPEN INVENTION NETWORK LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1164" label="OPTOSENSE TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1165" label="ORBITAL RES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1166" label="ORIONS DIGITAL SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1167" label="OSPREY GLOBAL SOLUTIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1168" label="OTOY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1169" label="OUTER RIM DEVELOPMENTS PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1170" label="P TECH LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1171" label="PAHMET LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1172" label="PANASONIC ELECTRIC IND CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1173" label="PANASONIC IP MAN CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1174" label="PANONO GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1175" label="PARACHUTE SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1176" label="PARADOX ENG SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1177" label="SUPSI (SCUOLA UNIV DELLA SVIZZERA ITALIANA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1178" label="PARAFARM LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1179" label="PARKER HANNIFIN CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1180" label="PATHOLOGY ASSOCIATES MEDICAL LAB LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1181" label="PCTEL INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1182" label="PEACH STATE LABS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1183" label="PEARSON ENG LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1184" label="PEGASUS AVIAT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1185" label="PELLION TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1186" label="PEMBIENT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1187" label="PERSONAL SENSORS INTERACTIVE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1188" label="PERSPECTIVE ROBOTICS GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1189" label="PETROLEUM GEO SERVICES US INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1190" label="PHANTOM AG LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1191" label="PHARMAZELL GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1192" label="PHASENET WIRELESS COMM CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1193" label="PHOTRACK AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1194" label="PIASECKI AIRCRAFT CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1195" label="PIC2GO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1196" label="PICA PRODUCT DEV LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1197" label="PICPOCKET INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1198" label="PIEDRA SOMBRA CORP INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1199" label="PINNACLE SPINE GROUP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1200" label="PIXINOTE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1201" label="PIXOBOT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1202" label="PLA AIR FORCE AVIAT UNIVERSITY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1203" label="PLATYPUS IP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1204" label="PLAY MY TONE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1205" label="PODENERGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1206" label="POINT4UK LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1207" label="POINTSOURCE AUDIO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1208" label="POLYCEED INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1209" label="POLYTEC AUTOMOTIVE GMBH   CO KG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1210" label="THYSSENKRUPP PRESTA TECCT AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1211" label="POWERSET INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1212" label="PRICE LTD E H">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1213" label="PRIMARY MARKING SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1214" label="PRODUCTION RESOURCE GROUP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1215" label="PROSPECTIVE CONCEPTS AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1216" label="PROSPERA TECHNOLOGIES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1217" label="PROTOTYPE DEV ASSOC INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1218" label="PROVIVI INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1219" label="PURE TECHNOLOGIES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1220" label="PUU JIUH CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1221" label="QINETIQ LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1222" label="QINETIQ NORTH AMERICA INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1223" label="QORTEK INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1224" label="RADIATION MEDICAL INST ACADEMY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1225" label="RAINDANCE SYSTEMS PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1226" label="RAM IND DESIGN INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1227" label="RAVEN IND INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1228" label="RAYSAT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1229" label="RAYTHEON COMPANY WALTHAM MA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1230" label="READIO GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1231" label="RECREATIONAL DRONE EVENT SYSTEMS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1232" label="REEBEEZ INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1233" label="REECE INNOVATION CENTRE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1234" label="REFLEX ROBOTICS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1235" label="REMOTE SENSING METRICS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1236" label="REMTCS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1237" label="RENJI HOSPITAL AFFILIATED TO SHANGHAI JIAOTONG UNIV SCHOOL MEDICINE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1238" label="RENK AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1239" label="RESOCATOR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1240" label="RESONANCE TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1241" label="RHEINMETALL DEFENCE ELECT GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1242" label="RHEINMETALL LANDSYSTEME GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1243" label="RHODIA CHIMIE SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1244" label="RICHARDSON MERRELL INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1245" label="RIIP INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1246" label="RIPPER ROBOTS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1247" label="ROBODUB INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1248" label="ROBOTIC RES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1249" label="ROHR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1250" label="ROSS BAGPIPE REEDS PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1251" label="ROWAN UNIVERSITY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1252" label="ROY G BIV CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1253" label="SAAB SCANIA AB">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1254" label="SAAB SENSIS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1255" label="SADAR 3D INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1256" label="SAFE FRONTIER LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1257" label="SAMICK MUSIC CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1258" label="SAMSUNG TECHWIN CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1259" label="SANDOZ AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1260" label="SANYO KIKI KK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1261" label="SARATOGA DATA SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1262" label="SATURN CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1263" label="SCHIEBEL IND AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1264" label="SCHLOEMANN SIEMAG AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1265" label="SCHUBERTH WERK GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1266" label="SCIENCE   TECHNOLOGY CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1267" label="SCOTT TECH INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1268" label="SD SCIENCE   DEV SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1269" label="SDGI HOLDINGS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1270" label="SEA SCOUT IND INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1271" label="SEARS BRANDS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1272" label="SEATREK LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1273" label="SEEKTECH INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1274" label="SEGA CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1275" label="SELEX ES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1276" label="SENSEFLY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1277" label="SENTRUS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1278" label="SEPARATION DESIGN GROUP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1279" label="SEQUITUR LABS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1280" label="SHANGHAI PUBLIC SECURITY JUNIOR COLLEGE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1281" label="SHANGHAI YIWANTE TRAINING EQUIPMENT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1282" label="SHELFFLIP INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1283" label="SHENYANG AIRCRAFT DESIGN INST AVIATION IND CORP OF CHINA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1284" label="SHENZHEN AUTEL INTELLIGENT AVIATION TECH CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1285" label="SHENZHEN FUAV TECH CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1286" label="SHENZHEN HUALIN CIRCUIT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1287" label="SHILAT IMAGING LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1288" label="SHINKO ELECTRIC CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1289" label="SHOOTING SIMULATOR LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1290" label="SICPA HOLDING SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1291" label="SIEMENS INDUSTRY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1292" label="SIEMENS MEDICAL SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1293" label="SIEMENS VDO AUTOMOTIVE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1294" label="SIKORSKY AIRCRAFT CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1295" label="SILVER SPRING NETWORKS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1296" label="SIRIUS XM RADIO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1297" label="SK CHEMICALS CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1298" label="SKUR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1299" label="SKY IND INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1300" label="SKYCOMP INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1301" label="SKYDIO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1302" label="SKYSENSE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1303" label="SKYWIND INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1304" label="SMART DRILLING AND COMPLETION INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1305" label="SMART ROAD TECHNOLOGY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1306" label="SMARTLAB PTE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1307" label="SMARTVUE CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1308" label="SMARTY LAB CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1309" label="SMITHKLINE BEECHAM PLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1310" label="SMITHS DETECTION EDGEWOOD INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1311" label="SNAP VISION TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1312" label="SNAPAID LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1313" label="SOLAR SAILOR PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1314" label="SONOSCAN, INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1315" label="SOUNDS RESOURCES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1316" label="SOUTH CHINA AIRCRAFT INDUSTRY CO LTD OF CHINA AVIAT INDUSTRY GENERAL AIRCRAFT CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1317" label="SOUTHERN ELECTRICAL EQUIPMENT COMPANY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1318" label="SOUTHWEST AEROSPACE CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1319" label="SOUTHWEST RES INST OF CREC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1320" label="SPACE PHOTONICS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1321" label="SPACEDEV INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1322" label="SPANSION LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1323" label="SPATIAL INFORMATION SYSTEMS RES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1324" label="SPCM SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1325" label="SPECIAL PLAST AB">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1326" label="SPECTRA HARVEST LIGHTING LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1327" label="SPILLCONSULT LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1328" label="SPIRIT INTERNATIONAL INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1329" label="SPORTS LOGIC GROUP LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1330" label="SPRIG INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1331" label="SRC INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1332" label="SSHL INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1333" label="SSZ CAMOUFLAGE TECHNOLOGY AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1334" label="ST FRANCIS XAVIER UNIVERSITY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1335" label="STARCAM SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1336" label="STATE GRID CORP CHINA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1337" label="STATION INNOVATION PTY LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1338" label="STERILIZ LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1339" label="STERLING INT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1340" label="STEYR DAIMLER PUCH AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1341" label="STOLAR RES CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1342" label="STRAWBERRY MEDIA INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1343" label="STUBHUB INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1344" label="SUBVISION AB">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1345" label="SUNDSTRAND CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1346" label="SWIFT ENGINEERING INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1347" label="SYLVAN SOURCE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1348" label="SYMANTEC CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1349" label="SYMBOL TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1350" label="SYNERGISTIX LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1351" label="SYNERGY ELEMENTS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1352" label="SYNGENTA CROP PROTECTION LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1353" label="SYNPOWER CO LTD SYNPOWER CO LT">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1354" label="SYNTEX (U.S.A.) INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1355" label="SYNTHA BAUCHEMIE GMBH ET CO KG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1356" label="SYSTEMS INC DR">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1357" label="TACHYON NETWORKS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1358" label="TAKEDA CHEMICAL INDUSTRIES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1359" label="TARIX PHARMACEUTICALS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1360" label="TAU EMERALD ROTORS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1361" label="TAYSIDE TRADING LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1362" label="TELECOM ITALIA SPA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1363" label="TELECOMM SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1364" label="TELECOMMUNICATIONS SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1365" label="TELEDYNE SCIENT   IMAGING LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1366" label="TELEJET KOMMUNIKATIONS GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1367" label="TELVENT USA LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1368" label="TENNOR THERAPEUTICS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1369" label="TERRAVION LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1370" label="TESAT SPACECOM GMBH   CO KG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1371" label="TETHERBALL TECHNOLOGY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1372" label="TEXACO AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1373" label="THALIA CAPOS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1374" label="THE UNIVERSITY OF SYDNEY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1375" label="THERMO FISHER SCIENT GENEART GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1376" label="YLIFE TECHNOLOGIES CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1377" label="THERMOTEKNIX SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1378" label="TI SWISS SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1379" label="TIANJIN JIANSHANG SCIENCE   TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1380" label="TIMECODE SYSTEMS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1381" label="TOA CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1382" label="TOAGOSEI CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1383" label="TOBOR TECHNOLOGY LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1384" label="TOLO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1385" label="TOP FLIGHT TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1386" label="TOP MY TANK LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1387" label="TOPCON CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1388" label="TORREY PINES LOGIC INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1389" label="TOTAL SA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1390" label="TOYO UMPANKI CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1391" label="TOYOTA AUTOCAR LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1392" label="TRACK WORK PRODUCTS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1393" label="TRACOR AEROSPACE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1394" label="TREX ENTPR CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1395" label="TRINAMIX GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1396" label="TRIVEC AVANT CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1397" label="TRUEPATH HOLDINGS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1398" label="TRUSTPOINT INNOVATION TECHNOLOGIES LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1399" label="TTI TACTICAL TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1400" label="TULA TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1401" label="TWILIGHT LABS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1402" label="TWINGTEC AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1403" label="TWITTER INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1404" label="TZUNUM AIRCRAFT LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1405" label="UAS DIRECTIONS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1406" label="UCL BIOMEDICA PLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1407" label="UHLIG LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1408" label="UNDER ARMOUR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1409" label="UNICELL LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1410" label="UNISYS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1411" label="UNITED DYNAMICS ADVANCED TECHNOLOGIES CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1412" label="UNIV ABERDEEN">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1413" label="UNIV ALABAMA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1414" label="UNIV AMERICA CATHOLIC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1415" label="UNIV ARIEL RES   DEV CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1416" label="UNIV ARIZONA STATE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1417" label="UNIV BAR ILAN">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1418" label="UNIV BEIJING">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1419" label="UNIV BEIJING AERONAUTIC   AEROSPACE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1420" label="UNIV BEIJING CIVIL ENGINEERING   ARCHITECTURE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1421" label="UNIV BELFAST">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1422" label="UNIV BOLOGNA ALMA MATER">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1423" label="UNIV BOWLING GREEN STATE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1424" label="UNIV CARNEGIE MELLON">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1425" label="UNIV CHANGCHUN SCIENCE   TECH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1426" label="UNIV CHONGQING JIAOTONG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1427" label="UNIV CITY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1428" label="UNIV CITY HONG KONG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1429" label="UNIV COLORADO STATE RES FOUND">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1430" label="UNIV COMPIEGNE TECH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1431" label="UNIV CORNELL">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1432" label="UNIV CRETE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1433" label="UNIV DAYTON">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1434" label="UNIV DENVER">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1435" label="UNIV DUKE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1436" label="UNIV PITTSBURGH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1437" label="UNIV FLORIDA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1438" label="UNIV GENT">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1439" label="UNIV HARBIN POLYTECHNIC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1440" label="UNIV HERTFORDSHIRE HIGHER EDUCATION CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1441" label="UNIV HUAZHONG SCIENCE TECH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1442" label="UNIV HUELVA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1443" label="UNIV ILLINOIS">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1444" label="UNIV JILIANG CHINA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1445" label="UNIV JILIN">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1446" label="UNIV KANSAS STATE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1447" label="UNIV KOREA RES   BUS FOUND">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1448" label="UNIV LIAONING MEDICAL">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1449" label="UNIV MARYLAND BIOTECH INST">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1450" label="UNIV MEDITERRANEE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1451" label="UNIV MINNESOTA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1452" label="UNIV MISSOURI">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1453" label="UNIV MOHAMMED V DE RABAT">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1454" label="UNIV MONTPELLIER 2">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1455" label="UNIV NAGOYA NAT UNIV CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1456" label="UNIV NANJING AERONAUTICS">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1457" label="UNIV NANYANG TECH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1458" label="UNIV NAT AVIATION">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1459" label="UNIV NAT PHARMACEUTICAL">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1460" label="UNIV NEVADA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1461" label="UNIV NEW YORK">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1462" label="UNIV NEW YORK STATE RES FOUND">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1463" label="UNIV NORTH DAKOTA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1464" label="UNIV OR MARYLAND BALTIMORE COUNTY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1465" label="UNIV RUSH MEDICAL CENTER">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1466" label="UNIV SCRANTON">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1467" label="UNIV SHANGHAI ENG SCIENCE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1468" label="UNIV SHANGHAI FISHERIES">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1469" label="UNIV SHANGHAI JIAOTONG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1470" label="UNIV SINGAPORE TECHNOLOGY   DESIGN">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1471" label="UNIV SOUTH CHINA TECH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1472" label="UNIV SUN YAT SEN">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1473" label="UNIV TEXAS TECH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1474" label="UNIV TUFTS">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1475" label="UNIV VIGO">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1476" label="UNIV WICHITA STATE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1477" label="UNIV WUHAN">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1478" label="UNIV WYOMING">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1479" label="UNIV XIAMEN">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1480" label="UNIV XIHUA">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1481" label="UNIV YUNNAN AGRICULTURAL">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1482" label="UNIVERSITET ZURICH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1483" label="US LADAR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1484" label="UTILITY ASSOCIATES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1485" label="UUMBRA LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1486" label="VALENT BIOSCIENCE CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1487" label="VASCUACTIVE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1488" label="VAW VER ALUMINIUM WERKE AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1489" label="VECTORNAV TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1490" label="VELOCITY MAGNETICS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1491" label="VENTUREDYNE LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1492" label="VERSATRON CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1493" label="VEXTEC CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1494" label="VIA INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1495" label="VINVELI UNMANNED SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1496" label="VIVINT SOLAR INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1497" label="VIVOMETRICS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1498" label="VIXS SYSTEMS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1499" label="VM ROBOT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1500" label="VOEST ALPINE AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1501" label="VOLO GMBH E">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1502" label="VORBECK MATERIALS CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1503" label="VORTEX INTELLECTUAL PROPERTY HOLDING LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1504" label="VOXEL8 INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1505" label="VR MOVING FLOOR LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1506" label="VRINGO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1507" label="VT IDIRECT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1508" label="WABA FUN LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1509" label="WAHOO TECHNOLOGIES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1510" label="WARCOLLAR IND LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1511" label="WARNER CHILCOTT CO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1512" label="WARSAW UNIV OF LIFE SCIENCES">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1513" label="WEATHERFORD TECHNOLOGY HOLDINGS LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1514" label="WELLAWARE HOLDINGS INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1515" label="WILLIAMS AEROSPACE INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1516" label="WINEHAWK INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1517" label="WISTRON CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1518" label="WITCO GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1519" label="WITZENMANN GMBH">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1520" label="WMDTECH SERVICES LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1521" label="WMS GAMING INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1522" label="WUXI BEIDOUXINGTONG INF TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1523" label="WUXI MIRAROBOT TECH CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1524" label="WYETH CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1525" label="XCORP INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1526" label="XEROX CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1527" label="XI CHUAN BIGIT INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1528" label="XIAN HUANIC OPTOELECTRONIC CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1529" label="XIJING UNIV">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1530" label="XINJIANG INST OF TECHNOLOGY C">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1531" label="XISOM CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1532" label="XRAY AIRFRAME DESIGN   DEV LLC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1533" label="XTREME ADS LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1534" label="XYZ INTERACTIVE TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1535" label="YAHOO INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1536" label="YAHOO JAPAN CORP">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1537" label="YAMAHA MOTOR CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1538" label="YANCHENG HUAIYUAN BEE TECHNOLOGY DEV CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1539" label="YORK IND INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1540" label="YOUNIS TECHNOLOGIES INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1541" label="YOUYANG COUNTY YUANLI ECOLOGICAL BREEDING CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1542" label="YUXIN TECHNOLOGY SUZHOU CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1543" label="ZHEJIANG ACADEMY OF TRADITIONAL CHINESE MEDICINE">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1544" label="ZHEJIANG KONGXING AIRCRAFT TECHNOLOGY CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1545" label="ZHEJIANG ZHONGHANG ELECTRONIC CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1546" label="ZHIJIANG COLLEGE OF ZHEJIANG UNIV TECHNOLOGY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1547" label="ZHENGZHOU HIGHWAY ENGINEERING COMPANY">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1548" label="ZHUHAI GREE ENERGY SAVING   REFRIGERATING TECHNOLOGY RESARCH CT CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1549" label="ZHUZHOU CSR TIMES ELEC CO LTD">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1550" label="ZONA TECHNOLOGY INC">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+<node id="1551" label="ZUEBLIN AG">
+<attvalues>
+<attvalue for="0" value="1"/>
+</attvalues>
+</node>
+</nodes>
+<edges>
+<edge id="1" source="1" target="2" weight ="1" />
+<edge id="2" source="7" target="8" weight ="1" />
+<edge id="3" source="7" target="9" weight ="1" />
+<edge id="4" source="14" target="15" weight ="1" />
+<edge id="5" source="14" target="16" weight ="1" />
+<edge id="6" source="15" target="20" weight ="1" />
+<edge id="7" source="26" target="27" weight ="3" />
+<edge id="8" source="29" target="30" weight ="1" />
+<edge id="9" source="46" target="47" weight ="1" />
+<edge id="10" source="46" target="48" weight ="1" />
+<edge id="11" source="46" target="49" weight ="1" />
+<edge id="12" source="55" target="56" weight ="1" />
+<edge id="13" source="68" target="8" weight ="1" />
+<edge id="14" source="68" target="69" weight ="1" />
+<edge id="15" source="115" target="116" weight ="1" />
+<edge id="16" source="118" target="119" weight ="3" />
+<edge id="17" source="118" target="120" weight ="3" />
+<edge id="18" source="118" target="121" weight ="3" />
+<edge id="19" source="118" target="122" weight ="2" />
+<edge id="20" source="8" target="69" weight ="1" />
+<edge id="21" source="8" target="124" weight ="1" />
+<edge id="22" source="8" target="125" weight ="1" />
+<edge id="23" source="131" target="132" weight ="1" />
+<edge id="24" source="131" target="133" weight ="1" />
+<edge id="25" source="138" target="139" weight ="2" />
+<edge id="26" source="138" target="140" weight ="1" />
+<edge id="27" source="138" target="141" weight ="1" />
+<edge id="28" source="138" target="142" weight ="1" />
+<edge id="29" source="156" target="157" weight ="4" />
+<edge id="30" source="121" target="119" weight ="3" />
+<edge id="31" source="121" target="120" weight ="3" />
+<edge id="32" source="121" target="122" weight ="2" />
+<edge id="33" source="121" target="161" weight ="2" />
+<edge id="34" source="121" target="162" weight ="2" />
+<edge id="35" source="171" target="172" weight ="4" />
+<edge id="36" source="186" target="187" weight ="1" />
+<edge id="37" source="189" target="190" weight ="1" />
+<edge id="38" source="189" target="191" weight ="1" />
+<edge id="39" source="199" target="200" weight ="1" />
+<edge id="40" source="201" target="202" weight ="1" />
+<edge id="41" source="201" target="203" weight ="1" />
+<edge id="42" source="218" target="219" weight ="1" />
+<edge id="43" source="56" target="224" weight ="1" />
+<edge id="44" source="257" target="258" weight ="1" />
+<edge id="45" source="265" target="266" weight ="1" />
+<edge id="46" source="272" target="273" weight ="1" />
+<edge id="47" source="274" target="275" weight ="1" />
+<edge id="48" source="278" target="279" weight ="1" />
+<edge id="49" source="120" target="119" weight ="3" />
+<edge id="50" source="120" target="122" weight ="2" />
+<edge id="51" source="119" target="122" weight ="2" />
+<edge id="52" source="162" target="161" weight ="2" />
+<edge id="53" source="342" target="343" weight ="1" />
+<edge id="54" source="342" target="344" weight ="1" />
+<edge id="55" source="357" target="358" weight ="1" />
+<edge id="56" source="372" target="373" weight ="2" />
+<edge id="57" source="124" target="125" weight ="1" />
+<edge id="58" source="410" target="411" weight ="2" />
+<edge id="59" source="420" target="421" weight ="1" />
+<edge id="60" source="420" target="422" weight ="1" />
+<edge id="61" source="432" target="433" weight ="1" />
+<edge id="62" source="471" target="472" weight ="1" />
+<edge id="63" source="47" target="49" weight ="1" />
+<edge id="64" source="525" target="526" weight ="1" />
+<edge id="65" source="534" target="535" weight ="1" />
+<edge id="66" source="537" target="538" weight ="1" />
+<edge id="67" source="556" target="557" weight ="1" />
+<edge id="68" source="681" target="682" weight ="1" />
+<edge id="69" source="793" target="794" weight ="1" />
+<edge id="70" source="831" target="832" weight ="1" />
+<edge id="71" source="879" target="880" weight ="1" />
+<edge id="72" source="899" target="900" weight ="1" />
+<edge id="73" source="928" target="929" weight ="1" />
+<edge id="74" source="943" target="944" weight ="1" />
+<edge id="75" source="972" target="973" weight ="1" />
+<edge id="76" source="978" target="979" weight ="1" />
+<edge id="77" source="1008" target="1009" weight ="1" />
+<edge id="78" source="1011" target="1012" weight ="1" />
+<edge id="79" source="1011" target="1013" weight ="1" />
+<edge id="80" source="1034" target="1035" weight ="1" />
+<edge id="81" source="1150" target="1151" weight ="1" />
+<edge id="82" source="1176" target="1177" weight ="1" />
+<edge id="83" source="1209" target="1210" weight ="1" />
+<edge id="84" source="1012" target="1013" weight ="1" />
+<edge id="85" source="1375" target="1376" weight ="1" />
+<edge id="86" source="1435" target="1436" weight ="1" />
+<edge id="87" source="421" target="422" weight ="1" />
+<edge id="88" source="1545" target="1546" weight ="1" />
+</edges>
+</graph>
+</gexf>
+<!--Started: 18/10/2016 18:51:43 and it took: 46 seconds. Macro version: 1.2 (static)-->
