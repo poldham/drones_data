@@ -1,8 +1,11 @@
+# testfunct <- function(x, col = "", count = ""){
+# df <- dplyr::select_(x, col, count) %>% 
+#   tidyr::separate_rows_(col, sep = ";") %>%
+#   stringr::str_trim(., col, side = "both") -> df[col]
+# df
+# }
+# 
+# testme <- testfunct(drones_cleaned, "inventors_useme", "weight") 
 
-#testfunct <- function(x, col = "", count = ""){
-#  df <- dplyr::select_(x, col, count) %>% 
-#    tidyr::separate_rows_(col, sep = ";")
-#  df[col] <- stringr::str_trim(df[col], side = "both")
-#  df #behaving rather weirdly by producing concatenated tibble
-#}
-#testme <- testfunct(drones_cleaned, "inventors_useme", "weight") 
+
+#data.frame( x = c(1:3), y = (4:6)) %>% sum -> af
