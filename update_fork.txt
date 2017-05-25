@@ -1,2 +1,6 @@
-To update use New Pull Request in the source repo
-Then choose wipo-analytics as the base fork and the origin of the change is the head fork
+To update use 
+
+1. New Pull Request in the Source repo below your repo
+2. Then choose Pull Request in the Source Repo and Compare across forks. 
+3. The base fork should be your repo (e.g. wipo-analytics) and the head fork should be the source repo (e.g. poldham). 
+4. Make pull request and merge. 
