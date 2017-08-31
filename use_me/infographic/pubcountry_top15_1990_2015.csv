@@ -1,16 +1,1 @@
-records,publication_country
-3460,United States of America
-808,WIPO (PCT)
-366,Australia
-355,China
-244,European Patent Office
-150,Russian Federation
-130,Republic of Korea
-82,France
-78,United Kingdom
-66,Germany
-44,Japan
-39,Canada
-13,Ukraine
-5,Romania
-4,Brazil
+publication_country,recordsUnited States of America,3460WIPO (PCT),808Australia,366China,355European Patent Office,244Russian Federation,150Republic of Korea,130France,82United Kingdom,78Germany,66Japan,44Canada,39Ukraine,13Romania,5Brazil,4
