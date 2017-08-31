@@ -1,0 +1,1 @@
+https://www.lens.org/lens/search?q=%28title%3A%22<title_phrases>%22+%7C%7C+abstract%3A%22<title_phrases>%22+%7C%7C+claims%3A%22<title_phrases>%22%29&predicate=%26%26&l=en
